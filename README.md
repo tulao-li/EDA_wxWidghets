@@ -7,9 +7,9 @@ toolbox(树状结构)和canvas的分区
 
 toolbar和menubar模块
 
-## 需要完成:
-
 toolbox的树状结构分区
+
+## 需要完成:
 
 拖拽与或非门和输入输出端口
 
